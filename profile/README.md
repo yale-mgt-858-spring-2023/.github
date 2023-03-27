@@ -89,14 +89,14 @@ query languages like [PostgreSQL-flavored SQL](https://www.postgresql.org/docs/)
 Most of the homework assignments and the final exam will require using the [git
 version control system](https://git-scm.com/) for submission. You'll sign up
 for GitHub, join the [yale-mgt-858-spring-2023
-organization](https://github.com/yale-mgt-858-spring-2023) on GitHub and
+organization](https://github.com/yale-mgt-858-spring-2023) on [GitHub](https://github.com/yale-mgt-858-spring-2023/.github/blob/main/profile/github.md) and
 submit your assignments (in part) by pushing up code to GitHub. Usually I'll
 give you some starter code like empty `.sql` files with examples queries.
 When you complete your assignments, you'll make git commits and push those
 commits up to GitHub so that I can download your answers and test them.
 Obviously this requires knowing a little bit of git. I'll point you to some
 git tutorials, but I'm not going to teach git in class. You are forewarned
-😉. You can [read more about git here](github.md).
+😉. 
 
 You can complete the homework assignments on any kind of computer: Windows,
 Mac, Linux, whatever. You'll almost certainly need to install some software in
