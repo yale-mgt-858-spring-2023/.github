@@ -6,8 +6,6 @@ This is the first time I'm teaching this course and I'm super jazzed about it
 🤩🥳. This is a living document — you can track changes by looking the git
 commits. 
 
-Jump to [Covid info](#covid).
-
 ## Overview
 
 | Key                     | Value                                                                     |
@@ -20,6 +18,7 @@ Jump to [Covid info](#covid).
 | 💻&nbsp;Zoom link       | No zoom  🙁                                    |
 | 📅&nbsp;Calendar | [Yale SOM Academic Calendar](https://som.yale.edu/programs/mba/integrated-curriculum/the-academic-calendar) |
 | 🌐&nbsp;Website         | http://858.mba (down sometimes until class begins; requires Yale VPN)                  |
+| 💬&nbsp;Discussions | https://github.com/orgs/yale-mgt-858-spring-2023/discussions |
 
 
 MGT858 introduces enrolled students to the database systems used in modern
