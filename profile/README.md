@@ -121,12 +121,14 @@ best way to do so is going through the exercises at
 part of the assigned reading in class. For the other database systems we'll
 use, the answer is less clear.  You can read about
 [ElasticSearch](https://github.com/elastic/elasticsearch) (the representative
-full-text search database we'll use);
-[ClickHouse](https://github.com/ClickHouse/ClickHouse) (the representative
-columnar store we'll use); [Redis](https://github.com/redis/redis) (the
-representative caching database we'll use);
+full-text search database we might use);
+[ClickHouse](https://github.com/ClickHouse/ClickHouse) or 
+[DuckDB](https://duckdb.org/)
+(the representative
+columnar stores we might use); [Redis](https://github.com/redis/redis) (the
+representative caching database we might use);
 [MongoDB](https://github.com/mongodb/mongo) (the representative noSQL
-database we'll use); and [Neo4j](https://github.com/neo4j/neo4j) (the
+database we'll likely use); and [Neo4j](https://github.com/neo4j/neo4j) (the
 representative graph database we'll use).
 
 A second way to prepare is to level-up your computer skills in general,
@@ -175,12 +177,26 @@ before every class. That's
 a *lot* of work!  All of the homework assignments will be submitted to
 GitHub using git. 
 
-## Use of AI assistants
+## Use of AI assistants, human assistants, and the honor code
 
-You should totally be using AI assistants such at GitHub Copilot (best for writing code)
-or ChatGPT (good for answer pre-class quiz questions). I ask that you not copy from other
-humans in "real-time". You are welcome to use the advice of other humans through media
-such as StackOverflow or our [class discussion/qa](https://github.com/orgs/yale-mgt-858-spring-2023/discussions).
+You should totally be using AI assistants such at GitHub Copilot
+(best for writing code) or ChatGPT (good for answer pre-class quiz
+questions). I ask that you not copy from other humans in "real-time".
+You are welcome to use the advice of other humans through media
+such as StackOverflow or our [class
+discussion/qa](https://github.com/orgs/yale-mgt-858-spring-2023/discussions)
+and also to work on your homework with your colleagues. Given such
+parameters, what do I think would constitute a violation of the
+honor code? I can think of a few things: 1) blatant copying,
+particularly in serial; 2) wide spread dissemination  of answers
+to quizzes or homework assignments; 3) copying from a human in
+real-time; 4) use of unauthorized resources during the final exam;
+5) efforts to thwart faithful grading, such as fibbing about time
+of submission.  What's the bottom line? We're all adults. I want
+you to learn, I want you to have fun, and I want to faithfully
+report a grade that reflects your "real world" subject matter
+competence at the end of the term. Don't do things that mess that
+up.
 
 ## Quizzes
 
@@ -284,5 +300,4 @@ the class more fun for all of us and most importantly for me 🤣.
 ## Class meetings
 
 This is a half term course. You can see the schedule here: [https://858.mba](https://858.mba).
-Notice that we will meet on 4/8 even though Yale College does not.
 
